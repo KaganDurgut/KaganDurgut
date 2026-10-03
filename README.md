@@ -20,5 +20,10 @@ Curious builder exploring web technologies, data workflows, and modern UI ergono
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
+**AI & Prototyping:**  
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75C2?style=flat-square&logo=google&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Anthropic Claude](https://img.shields.io/badge/Claude%20AI-D97706?style=flat-square&logo=anthropic&logoColor=white)
+
 ---
 *Learning by building, testing, and iterating.*
