@@ -7,7 +7,7 @@ Curious builder exploring web technologies, data workflows, and modern UI ergono
 
 ### 🚀 Featured Projects
 
-- 🏎️ **[Cardustry View](https://github.com/KaganDurgut/cardustry-view)** — An automotive dashboard powered by async data fetching and AI-driven summarization.
+- 🏎️ **[Cardustry View](https://github.com/KaganDurgut/cardustry-view)** — An automotive sector dashboard powered by async data fetching and AI-driven summarization.
 - 📻 **[CompCar Studio](https://github.com/KaganDurgut/CompCar-Studio)** — A web-based car radio & audio simulator built with Web Audio API and PWA.
 
 ---
